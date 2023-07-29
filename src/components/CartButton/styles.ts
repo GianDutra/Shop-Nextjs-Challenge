@@ -69,4 +69,6 @@ export const CartButtonContainer = styled("button", {
     color: "gray",
     size: "medium",
   },
+
+  
 });

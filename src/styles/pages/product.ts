@@ -7,7 +7,18 @@ export const ProductContainer = styled('main', {
   gap: '4rem',
 
   maxWidth: 1180,
-  margin: '0 auto'
+  margin: '0 auto',
+
+  '@md': {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    
+  },
+
+  '@container': {
+    padding: '1rem',
+  },
 })
 
 export const ImageContainer = styled('div', {
@@ -24,7 +35,12 @@ export const ImageContainer = styled('div', {
 
   img: {
     objectFit: 'cover',
-  }
+  },
+
+  '@md': {
+    height: 400,
+  },
+
 })
 
 export const ProductDetails = styled('div', {
@@ -70,4 +86,9 @@ export const ProductDetails = styled('div', {
       backgroundColor: '$green300',
     }
   },
+
+  '@md': {
+    marginTop: '1.5rem'
+  },
+
 })

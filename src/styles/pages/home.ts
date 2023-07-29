@@ -1,4 +1,4 @@
-import { styled } from "@stitches/react";
+import { styled } from "..";
 
 export const HomeContainer = styled("main", {
   width: "100%",
@@ -13,6 +13,17 @@ export const SliderContainer = styled("div", {
   ".embla__slide": {
     minWidth: "43.5rem",
   },
+
+  '@md': {
+    ".embla__slide": {
+      minWidth: "13.5rem",
+      width: "23rem",  
+      flex: "0 0 80%",
+      
+       /* Breakpoint SM slide covers 50% of the viewport */
+    }
+  },
+
 });
 
 export const Product = styled("div", {

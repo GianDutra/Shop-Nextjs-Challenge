@@ -28,6 +28,11 @@ export const CartContent = styled(Dialog.Content, {
         flex: 1,
         overflowY: "auto",
       },
+
+      '@md': {
+        width: "20rem",
+        
+    },
 })
 
 export const CartClose = styled(Dialog.Close, {
@@ -45,6 +50,7 @@ export const CartClose = styled(Dialog.Close, {
     gap: "1.25rem",
     alignItems: "center",
     height: "5.8125rem",
+
   });
 
   export const CartProductImage = styled("div", {

@@ -27,10 +27,15 @@ export const {
 
         fontSizes: {
             md: '1.125rem',
-            large: '1.25rem',
+            lg: '1.25rem',
             xl: '1.5rem',
-            '2xl': '2rem',
+            '2xl': '2rem'
+          },
         },
-    }
-})
-
+        media: {
+          sm: '(max-width: 500px)',
+          md: '(max-width: 768px)',
+          container: '(max-width: 1180px)',
+          notebook: '(max-width: 1366px)',
+        },
+      })
