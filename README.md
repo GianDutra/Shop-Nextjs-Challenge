@@ -9,7 +9,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/Shop-Nextjs-Challenge">
   </a>
   
- <a href="https://ignite-timer-rho.vercel.app/">
+ <a href="https://shop-nextjs-2.vercel.app/">
     <img alt="Shop-Nextjs" src="https://img.shields.io/badge/Shop-Nextjs-%237159c1?style=flat&logo=ghost">
   </a>
   
