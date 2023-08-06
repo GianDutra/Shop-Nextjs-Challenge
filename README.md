@@ -1,4 +1,4 @@
-# Ignite Shop NextJS 
+# Ignite Shop NextJS SSG | SSR 
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/Shop-Nextjs-Challenge?color=%2304D361">
@@ -15,7 +15,9 @@
   
 </p>
 <img src="./.github/1.png" alt="Shop-Nextjs-Challenge" title="Shop-Nextjs-Challenge">
-> Projeto desenvolvido durante o Curso Ignite da trilha de ReactJS.
+<img src="./.github/2.png" alt="Shop-Nextjs-Challenge" title="Shop-Nextjs-Challenge">
+<img src="./.github/3.png" alt="Shop-Nextjs-Challenge" title="Shop-Nextjs-Challenge">
+> Desafio da RocketSeat no qual desenvolvi um projeto durante o Curso Ignite da trilha de ReactJS e aprimorei o website adicionando novas funcionalidades.
 
 ## Linguagens e Tecnologias usadas
 
