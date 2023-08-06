@@ -10,7 +10,7 @@
   </a>
   
  <a href="https://ignite-timer-rho.vercel.app/">
-    <img alt="ignite-timer" src="https://img.shields.io/badge/ignite-timer-%237159c1?style=flat&logo=ghost">
+    <img alt="Shop-Nextjs" src="https://img.shields.io/badge/Shop-Nextjs-%237159c1?style=flat&logo=ghost">
   </a>
   
 </p>
