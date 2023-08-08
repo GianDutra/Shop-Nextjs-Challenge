@@ -23,10 +23,8 @@
 
 Para criar o site foi utilizado:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/))
-
+#### **Website**  ([NextJS](https://nextjs.org/)  +  [React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 - **[PhosphorIcons](https://phosphoricons.com/)**
-- **[NextJS](https://nextjs.org/)**
 - **[Stitches](https://stitches.dev/)**
 - **[RadixUI](https://www.radix-ui.com/)**
 - **[Axios](https://www.axios.com/)**
