@@ -40,6 +40,15 @@ Para criar o site foi utilizado:
 - [x] Implementar Stripe API para realizar pagamentos 
 - [x] Substituir Keen Slider por Embla Carousel
 
+## Testando a aplicação 
+
+Caso você queira testar a compra das camisas, use este cartão de crédito falso:
+```env
+4242 4242 4242 4242
+# Pode usar qualquer data valida como vencimento do cartão
+# Pode usar qualquer CVC
+```
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você possui instalado:
